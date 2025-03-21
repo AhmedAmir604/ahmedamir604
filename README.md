@@ -4,11 +4,7 @@
 ## 💫 About Me
 - 🏢 Currently working as a **Full-Stack Developer** at **AHBytes**
 - 🎓 Pursuing **BS in Computer Science** at the **University of Management and Technology** (Expected 2026)
-- 🚀 Building **TourTales** (tour booking platform) and **SuperSlot** (appointment booking system)
-- 🌱 Learning advanced JavaScript, WebSockets, GraphQL, and Business Development
-- 💬 Ask me about Web Development, MERN Stack, and API architectures
-- ⚡ When I'm not coding, you'll find me traveling or discovering new coffee spots! ☕🌍
-
+- 
 ## 🚀 Professional Experience
 **Full-Stack Developer** | AHBytes (Jan 2025 - Present)
 - Developed client dashboards using Next.js and React, reducing loading times by 40%
