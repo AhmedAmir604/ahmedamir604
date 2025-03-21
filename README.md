@@ -4,7 +4,7 @@
 ## 💫 About Me
 - 🏢 Currently working as a **Full-Stack Developer** at **AHBytes**
 - 🎓 Pursuing **BS in Computer Science** at the **University of Management and Technology** (Expected 2026)
-- 
+  
 ## 🚀 Professional Experience
 **Full-Stack Developer** | AHBytes (Jan 2025 - Present)
 - Developed client dashboards using Next.js and React, reducing loading times by 40%
