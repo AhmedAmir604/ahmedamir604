@@ -57,5 +57,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedAmir604&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
+<h3 align="left">Pacman Contribution Graph</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedamir604/ahmedamir604/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedamir604/ahmedamir604/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmedamir604/ahmedamir604/output/pacman-contribution-graph.svg">
+</picture>
 
