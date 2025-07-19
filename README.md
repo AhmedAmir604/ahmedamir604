@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">A Full-Stack Developer 👨‍💻 </h3>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmed | A Full-Stack Developer 👨‍💻 </h1>
+<h3 align="center"></h3>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/389becf33c4b04987d4a57fcdd77c875991d05e5089ac7af8fbc06507535d596/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f63545776734b7632466337433555444535616e4472434572424c4d75706b4439424151514c33585054424d2f72733a6669743a3830303a3630303a312f673a63652f6148523063484d364c79396a5a4734752f5a484a70596d4a6962475575593239742f4c33567a5a584a7a4c7a45774e546b312f4f444d7663324e795a575675633268762f64484d764e4445334d544d324e79396a2f62325270626d63745a6e4a6c595773752f5a326c6d2e676966" alt="Coding Gif" width="600px" />
@@ -47,9 +47,12 @@
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AhmedAmir604&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedAmir604&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAmir604&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAmir604&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAmir604&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAmir604&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedAmir604&theme=radical&no-frame=false&no-bg=false&margin-w=4)
